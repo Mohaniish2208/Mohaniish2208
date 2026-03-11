@@ -1,4 +1,4 @@
-## Hi there I am Mohanish👋
+## Hi, I am Mohanish👋
 
 
 
