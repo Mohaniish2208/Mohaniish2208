@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on React frontend projects to strengthen my portfolio.
-- 🌱 I’m currently learning React, TypeScript, JavaScript, HTML5, CSS3, and Vite.
+- 🌱 I can build a project using React, TypeScript, JavaScript, HTML5, CSS3, and Vite.
 - 👯 I’m looking to collaborate on beginner-friendly frontend or React projects.
 - 🤔 I’m looking for help with improving project quality, clean code, and job-ready frontend development.
 - 💬 Ask me about React, TypeScript, JavaScript, HTML, CSS, and frontend project building.
