@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on React frontend projects to strengthen my portfolio.
 - 🌱 I can build a project using React, TypeScript, JavaScript, HTML5, CSS3, and Vite.
 - 👯 I’m looking to collaborate on beginner-friendly frontend or React projects.
-- 🤔 I’m looking for help with improving project quality, clean code, and job-ready frontend development.
+- 🤔 I’m looking for improving project quality, clean code, and job-ready frontend development.
 - 💬 Ask me about React, TypeScript, JavaScript, HTML, CSS, and frontend project building.
 - 📫 How to reach me: [mohanish609@gmail.com] | [https://www.linkedin.com/in/mohanish-ingole-049322338/]
 - ⚡ Fun fact: I enjoy building structured projects and improving them step by step.
